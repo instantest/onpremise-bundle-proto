@@ -1,2 +1,2 @@
-# onpremise-bundle-proto
-Instantest: On-Premise Bundle Proto 
+# Instantest: On-Premise Bundle Proto
+Prototype application for "on-premise" deployment policy
